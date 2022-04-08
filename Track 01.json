@@ -4,5 +4,14 @@
   "artist": "JLicious",
   "author": "JLicious",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Track 01: Party Rock Anthem",
+      "volume": "01",
+      "last_updated": "1649383806",
+      "groups": {
+        "JLicious": "/proxy/api/imgur/chapter/Z4ElMQk"
+      }
+    }
+  }
 }
